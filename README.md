@@ -1,4 +1,4 @@
-#  I'm Harsh Kr.Singh 😊
+#  I'm Harsh Kumar 😊
 **A passionate B.TECH"27 | CSE(Data Science) |APP DevelopMent (Kotlin)  | DSA | Prompt AI Developer | Web Development | Tech Enthusiast from India**
 
 - 🔭 **I’m currently working on:** One-Stop Personalized Career & Education Advisor
