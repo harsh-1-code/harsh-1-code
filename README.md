@@ -49,9 +49,8 @@
   </td>
   <td width="38%" valign="top">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-1-
-  code&show_icons=true&include_all_commits=true&theme=transparent&title_color=60a5fa&text_color=94a3b8&icon_color=a78bfa&hide_borde
-  r=true&rank_icon=github" width="100%" />
+ <img width="1254" height="1254" alt="profile iMage" src="https://github.com/user-attachments/assets/ce518963-f8f9-40d2-8a90-2febf54e6766" />
+
 
   </td>
   </tr>
@@ -160,9 +159,8 @@
 
   <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=harsh-1-
-  code&theme=transparent&hide_border=true&ring=60a5fa&fire=f97316&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=64748b&currStreakN
-  um=ffffff&sideNums=ffffff" width="75%" />
+  <img width="937" height="253" alt="Screenshot 2026-09-28 at 10 18 27 PM" src="https://github.com/user-attachments/assets/23fea64f-f0bf-4f90-a234-bf692e3e138d" />
+
 
   <br/><br/>
 
